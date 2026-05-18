@@ -3,3 +3,5 @@ Cabeza con casco de acero
 ... con ojos de rayo laser
 
 Agregar Brazos
+
+Agregar Piernas
