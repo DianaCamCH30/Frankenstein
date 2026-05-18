@@ -4,3 +4,4 @@ Cabeza con casco de acero
 
 Agregar Brazos
 Agregar Torso
+Agregar Piernas
